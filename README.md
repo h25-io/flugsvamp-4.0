@@ -16,4 +16,4 @@ För att komma åt Flugsvamp-4.0 måste du göra något av följande:
 
   <img src="Flugsvamp-4.0 Länk_index.html_products.png" width="800">
 
-> information som tillhandahålls i forskningssyfte
+> information som tillhandahålls för forskningsändamål av [h25.io](https://h25.io) teamet
